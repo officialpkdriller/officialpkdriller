@@ -71,7 +71,7 @@
 ---
 
 <p align="center" style="color:#39FF14;">
-  <b>Let's build something luminous together! 🚀</b>
+  <b>Let's build something amazing together! 🚀</b>
 </p>
 
 <!-- Replace "your@email.com" and profile URLs with your actual info -->
