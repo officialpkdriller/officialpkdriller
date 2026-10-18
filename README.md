@@ -17,7 +17,7 @@ I build reliable backends and developer tools with a focus on clean architecture
 - Location: Remote 🌍  
 - Open to: collaborations, devtools, backend & SRE roles  
 - Email: benardwachira49@gmail.com  
-- Website: https://your-portfolio.example
+- Website: https://my-portfolio-seven-eta-49.vercel.app/
 
 ---
 
