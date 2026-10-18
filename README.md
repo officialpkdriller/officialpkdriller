@@ -29,7 +29,3 @@ I build reliable backends and developer tools with a focus on clean architecture
 </p>
 
 <p align="center">
-  <!-- Contribution/activity graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=officialpkdriller&theme=github" alt="Contribution graph" width="720"/>
-</p>
-
