@@ -39,7 +39,7 @@ I build reliable backends and developer tools with a focus on clean architecture
 
 <p align="center">
   <!-- GitHub stats -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nearfriend&theme=tokyo-night&hide_border=true&area=true&radius=12" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nearfriend&theme=tokyo-night&hide_border=true&area=true&radius=12"
   <img src="https://github-readme-stats.vercel.app/api?username=officialpkdriller&show_icons=true&count_private=true&theme=github_dark" alt="GitHub stats" width="420"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialpkdriller&layout=compact&theme=github_dark" alt="Top languages" width="260"/>
